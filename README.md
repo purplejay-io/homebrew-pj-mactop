@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell
-brew install purplejay-io/pj-mactop/mactop
+brew install purplejay-io/pj-mactop/pj-mactop
 ```
 
 
